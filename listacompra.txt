@@ -6,3 +6,7 @@ sal
 tomates
 pepino
 ajos
+Ron
+Naranja
+Zumo grosella
+hielo
